@@ -2,3 +2,4 @@
 Fiz uma alteração
 Alterações efetuadas no branch NovaFeature
 Alteração no branch NOVAFEATURE
+Alteração no branch MASTE
